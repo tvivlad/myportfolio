@@ -1,0 +1,10 @@
+.avatar {
+  width: 200px;
+  height: 200px;
+}
+.header {
+  display: flex;
+}
+.info {
+  width: 180px;
+}
